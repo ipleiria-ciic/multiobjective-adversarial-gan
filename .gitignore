@@ -2,6 +2,9 @@ Attacks/Perturbations
 Dataset
 Models
 Testing/Images
+SuperstarGAN/results
+SuperstarGAN/logs
+SuperstarGAN/samples
 **/.ipynb_checkpoints
 **/__pycache__/
 **/*.pyc
