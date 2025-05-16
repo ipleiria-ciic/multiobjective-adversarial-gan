@@ -1,0 +1,11 @@
+numpy
+lpips
+pandas
+scipy
+torch
+torchvision
+torchaudio
+alive-progress
+notebook
+matplotlib
+tensorflow[and-cuda]
