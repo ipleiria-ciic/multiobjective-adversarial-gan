@@ -5,6 +5,7 @@ Testing/Images
 SuperstarGAN/results
 SuperstarGAN/logs
 SuperstarGAN/samples
+SuperstarGAN/models
 **/.ipynb_checkpoints
 **/__pycache__/
 **/*.pyc
