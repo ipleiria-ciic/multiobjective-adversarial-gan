@@ -1,0 +1,227 @@
+[
+    {
+        "model": "AlexNet",
+        "delta": "0.01",
+        "correctly_classified": 6582,
+        "fooling_rate": 0.6394105135217259,
+        "fooling_count": 5525,
+        "fid_score": 31.85123,
+        "lpips_score": 0.219257
+    },
+    {
+        "model": "ResNet18",
+        "delta": "0.01",
+        "correctly_classified": 7304,
+        "fooling_rate": 0.7722617743702081,
+        "fooling_count": 6371,
+        "fid_score": 27.22343,
+        "lpips_score": 0.202061
+    },
+    {
+        "model": "ResNet152",
+        "delta": "0.01",
+        "correctly_classified": 8250,
+        "fooling_rate": 0.6124242424242424,
+        "fooling_count": 7280,
+        "fid_score": 30.283261,
+        "lpips_score": 0.206635
+    },
+    {
+        "model": "VGG16",
+        "delta": "0.01",
+        "correctly_classified": 8048,
+        "fooling_rate": 0.6730119284294234,
+        "fooling_count": 7026,
+        "fid_score": 26.014261,
+        "lpips_score": 0.202118
+    },
+    {
+        "model": "VGG19",
+        "delta": "0.01",
+        "correctly_classified": 8086,
+        "fooling_rate": 0.6981498886965125,
+        "fooling_count": 6939,
+        "fid_score": 30.44357,
+        "lpips_score": 0.212687
+    },
+    {
+        "model": "AlexNet",
+        "delta": "0.05",
+        "correctly_classified": 6582,
+        "fooling_rate": 0.6910543907626862,
+        "fooling_count": 5470,
+        "fid_score": 29.77761,
+        "lpips_score": 0.229114
+    },
+    {
+        "model": "ResNet18",
+        "delta": "0.05",
+        "correctly_classified": 7304,
+        "fooling_rate": 0.7932201533406353,
+        "fooling_count": 6378,
+        "fid_score": 30.54474,
+        "lpips_score": 0.213013
+    },
+    {
+        "model": "ResNet152",
+        "delta": "0.05",
+        "correctly_classified": 8250,
+        "fooling_rate": 0.654545454545455,
+        "fooling_count": 7173,
+        "fid_score": 30.484799,
+        "lpips_score": 0.22219
+    },
+    {
+        "model": "VGG16",
+        "delta": "0.05",
+        "correctly_classified": 8048,
+        "fooling_rate": 0.6947465208747514,
+        "fooling_count": 6879,
+        "fid_score": 32.930707,
+        "lpips_score": 0.213825
+    },
+    {
+        "model": "VGG19",
+        "delta": "0.05",
+        "correctly_classified": 8086,
+        "fooling_rate": 0.7230967103635914,
+        "fooling_count": 6979,
+        "fid_score": 33.458766,
+        "lpips_score": 0.215023
+    },
+    {
+        "model": "AlexNet",
+        "delta": "0.10",
+        "correctly_classified": 6582,
+        "fooling_rate": 0.726192646611972,
+        "fooling_count": 5438,
+        "fid_score": 30.699469,
+        "lpips_score": 0.251988
+    },
+    {
+        "model": "ResNet18",
+        "delta": "0.10",
+        "correctly_classified": 7304,
+        "fooling_rate": 0.8293866374589266,
+        "fooling_count": 6350,
+        "fid_score": 33.098068,
+        "lpips_score": 0.258131
+    },
+    {
+        "model": "ResNet152",
+        "delta": "0.10",
+        "correctly_classified": 8250,
+        "fooling_rate": 0.6578181818181818,
+        "fooling_count": 7077,
+        "fid_score": 29.341261,
+        "lpips_score": 0.256182
+    },
+    {
+        "model": "VGG16",
+        "delta": "0.10",
+        "correctly_classified": 8048,
+        "fooling_rate": 0.7208946322067594,
+        "fooling_count": 6848,
+        "fid_score": 30.551574,
+        "lpips_score": 0.251226
+    },
+    {
+        "model": "VGG19",
+        "delta": "0.10",
+        "correctly_classified": 8086,
+        "fooling_rate": 0.7523373732376948,
+        "fooling_count": 6892,
+        "fid_score": 31.000863,
+        "lpips_score": 0.253534
+    },
+    {
+        "model": "AlexNet",
+        "delta": "0.15",
+        "correctly_classified": 6582,
+        "fooling_rate": 0.7061227590398055,
+        "fooling_count": 5635,
+        "fid_score": 44.551262,
+        "lpips_score": 0.291571
+    },
+    {
+        "model": "ResNet18",
+        "delta": "0.15",
+        "correctly_classified": 7304,
+        "fooling_rate": 0.8230832420591457,
+        "fooling_count": 6377,
+        "fid_score": 40.591915,
+        "lpips_score": 0.290081
+    },
+    {
+        "model": "ResNet152",
+        "delta": "0.15",
+        "correctly_classified": 8250,
+        "fooling_rate": 0.6864848484848485,
+        "fooling_count": 7231,
+        "fid_score": 34.968226,
+        "lpips_score": 0.279935
+    },
+    {
+        "model": "VGG16",
+        "delta": "0.15",
+        "correctly_classified": 8048,
+        "fooling_rate": 0.7179771371769384,
+        "fooling_count": 6905,
+        "fid_score": 36.141727,
+        "lpips_score": 0.271433
+    },
+    {
+        "model": "VGG19",
+        "delta": "0.15",
+        "correctly_classified": 8086,
+        "fooling_rate": 0.7687855552807321,
+        "fooling_count": 7025,
+        "fid_score": 36.762376,
+        "lpips_score": 0.294698
+    },
+    {
+        "model": "AlexNet",
+        "delta": "0.20",
+        "correctly_classified": 6582,
+        "fooling_rate": 0.7515496809480401,
+        "fooling_count": 5934,
+        "fid_score": 47.733439,
+        "lpips_score": 0.368291
+    },
+    {
+        "model": "ResNet18",
+        "delta": "0.20",
+        "correctly_classified": 7304,
+        "fooling_rate": 0.8600602409638554,
+        "fooling_count": 6501,
+        "fid_score": 54.34306,
+        "lpips_score": 0.337713
+    },
+    {
+        "model": "ResNet152",
+        "delta": "0.20",
+        "correctly_classified": 8250,
+        "fooling_rate": 0.6911515151515151,
+        "fooling_count": 7352,
+        "fid_score": 44.638602,
+        "lpips_score": 0.370264
+    },
+    {
+        "model": "VGG16",
+        "delta": "0.20",
+        "correctly_classified": 8048,
+        "fooling_rate": 0.7968687872763419,
+        "fooling_count": 7218,
+        "fid_score": 51.214062,
+        "lpips_score": 0.359548
+    },
+    {
+        "model": "VGG19",
+        "delta": "0.20",
+        "correctly_classified": 8086,
+        "fooling_rate": 0.8230422953252535,
+        "fooling_count": 7302,
+        "fid_score": 54.224103,
+        "lpips_score": 0.344933
+    }
+]
