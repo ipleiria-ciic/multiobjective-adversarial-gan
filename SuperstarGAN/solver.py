@@ -136,8 +136,8 @@ class Solver(object):
 
     def build_tensorboard(self):
         """Build a tensorboard logger."""
-        from logger import Logger
-        self.logger = Logger(self.log_dir)
+        # from logger import Logger
+        # self.logger = Logger(self.log_dir)
 
     # ** Edited by @joseareia on 2024/12/16 **
     # Changelog: Iterate for the list of optimizers in the discriminator.
