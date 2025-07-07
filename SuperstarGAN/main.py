@@ -61,7 +61,7 @@ if __name__ == '__main__':
     parser.add_argument('--lambda_gp', type=float, default=1)
     parser.add_argument('--lambda_perturbation', type=float, default=0.9)
     parser.add_argument('--nadir_slack', type=float, default=1.1) # Can range between 1.1 and 1.05.
-    parser.add_argument('--disc_weights', nargs='+', default=['0', '1'])
+    parser.add_argument('--disc_weights', nargs='+', default=['0.5', '0.5'])
                                             
     # Training configuration
     parser.add_argument('--dataset', type=str, default='Imagewoof')
